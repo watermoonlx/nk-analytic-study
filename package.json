@@ -1,0 +1,19 @@
+{
+  "name": "nk-analytic-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "na.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watermoonlx/nk-analytic-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/watermoonlx/nk-analytic-study/issues"
+  },
+  "homepage": "https://github.com/watermoonlx/nk-analytic-study#readme"
+}
